@@ -16,7 +16,7 @@ Basic knowledge of Meraki device management and IP configurations.
 
 # Getting Started:
 
-Input your Meraki OrgID and API Key in the "Getting Started" sheet.
+Input your Meraki OrgID and API Key in the "Getting Started" sheet of "Meraki Bulk provisioning_1.1.xlsx".
 # Step 1: Pre-Status Check
 
 Purpose: Retrieve the current status of all devices.
