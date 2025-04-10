@@ -53,3 +53,6 @@ Result: Verify updated configuration details in the "Post Config Check" sheet.
 Ensure the Meraki API key has necessary permissions.
 Double-check entries in the "Bulk Provisioning" sheet to avoid misconfigurations.
 Review the status of any devices that fail to update.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
