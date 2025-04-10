@@ -55,4 +55,4 @@ Double-check entries in the "Bulk Provisioning" sheet to avoid misconfigurations
 Review the status of any devices that fail to update.
 
 ## License
-This project is licensed under the MIT License - see the [[LICENSE]]([url](https://github.com/udarasandalthenuwara/Meraki-Bulk-Provisioning/blob/main/License.md))file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/udarasandalthenuwara/Meraki-Bulk-Provisioning/blob/main/License.md)file for details.
