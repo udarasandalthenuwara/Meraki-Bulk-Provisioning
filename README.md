@@ -4,6 +4,11 @@
 This tool is a Google Apps Script-based solution designed to streamline the management and configuration of Meraki devices within an organization. It allows network administrators to efficiently retrieve device status, check configurations, and apply bulk static IP configurations using a Google Sheets interface. By interacting with the Meraki API, this tool saves time and reduces manual effort.
 
 
+
+https://github.com/user-attachments/assets/83c5851e-a06d-4531-bb17-f41a6dea26a8
+
+
+
 # Prerequisites:
 
 
