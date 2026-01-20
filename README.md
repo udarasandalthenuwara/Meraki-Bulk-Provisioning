@@ -59,5 +59,14 @@ Ensure the Meraki API key has necessary permissions.
 Double-check entries in the "Bulk Provisioning" sheet to avoid misconfigurations.
 Review the status of any devices that fail to update.
 
+# Contributors
+## Contributors
+| Role | Name | GitHub |
+|------|------|--------|
+| Owner | Udara Sandal Thenuwara | [@udarasandalthenuwara](https://github.com/udarasandalthenuwara) |
+| Contributor | Ranilf Fernando | [@ranilf2005](https://github.com/ranilf2005) |
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/udarasandalthenuwara/Meraki-Bulk-Provisioning/blob/main/License.md)file for details.
+
+
